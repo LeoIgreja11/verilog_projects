@@ -9,8 +9,7 @@ It also includes a testbench and simulation setup using **Icarus Verilog** and *
 
 - `and_gate.v` – Verilog module for the AND gate
 - `and_gate_tb.v` – Testbench for simulation
-- `waveform.vcd` – Output waveform file (generated after simulation)
-- `run.sh` – Shell script to compile and simulate the design
+- `and_gate.vcd` – Output waveform file (generated after simulation)
 
 ### Requirements
 
