@@ -15,7 +15,7 @@ The project is organized into the following components:
 
 ### Requirements
 
-- [Icarus Verilog](http://iverilog.icarus.com/)
+- [Icarus Verilog](https://bleyer.org/icarus/)
 - [GTKWave](http://gtkwave.sourceforge.net/)
 - [Digital](https://github.com/hneemann/Digital)
 - [OpenLane](https://github.com/The-OpenROAD-Project/OpenLane)
@@ -27,10 +27,9 @@ cd sim/
 iverilog -o decoder_tb ../verilog/decoder.v decoder_tb.v
 vvp decoder_tb
 gtkwave waveform.vcd
-
+```
 
 ## 🙏 Acknowledgments
 
 This project was developed based on the excellent tutorials and videos by [Matheus Grossi](https://www.youtube.com/@mattgrossi7873).  
 Special thanks for making digital design more accessible and understandable!
-
