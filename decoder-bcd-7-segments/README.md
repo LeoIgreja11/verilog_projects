@@ -11,6 +11,12 @@ The project is organized into the following components:
 - **/sim/**: Icarus Verilog simulations and GTKWave waveform files
 - **/layout/**: OpenLane flow for synthesis and layout generation
 
+
+## Squematic
+
+
+![BCD Squematic](https://github.com/LeoIgreja11/verilog_projects/blob/main/decoder-bcd-7-segments/digital-decoder-bcd-7segments/bcd_4bits.png)
+
 ## ▶️ How to Run
 
 ### Requirements
