@@ -1,4 +1,4 @@
-# BCD to 7-Segment Decoder
+![image](https://github.com/user-attachments/assets/6d42a2ce-a063-4323-af2e-d5678d2a19c5)# BCD to 7-Segment Decoder
 
 This repository contains an open-source implementation of a **BCD (Binary-Coded Decimal) to 7-Segment Decoder**, including digital logic design, Verilog code, simulation, waveform analysis, and layout synthesis.
 
@@ -19,7 +19,7 @@ It represents how each segment of the display is driven based on the 4-bit BCD i
 
 ![BCD Schematic](https://github.com/LeoIgreja11/verilog_projects/blob/main/decoder-bcd-7-segments/digital-decoder-bcd-7segments/bcd_4bits.png)
 
-
+![BCD Waves](https://github.com/LeoIgreja11/verilog_projects/blob/main/decoder-bcd-7-segments/digital-decoder-bcd-7segments/gtkwave/waves.png)
 ## ▶️ How to Run
 
 ### Requirements
