@@ -22,7 +22,7 @@ It represents how each segment of the display is driven based on the 4-bit BCD i
 
 ## 🌊 Wave Forms
 
-This project monitors the waveforms of both input and output signals of the BCD to 7-Segment Decoder, using serial pulse inputs. The waveform visualization is done through the GTKWave software, allowing detailed observation of how the Decoder responds to changes in the 4-bit BCD input.
+The image below shows monitors the waveforms of both input and output signals of the BCD to 7-Segment Decoder, using serial pulse inputs. The waveform visualization is done through the GTKWave software, allowing detailed observation of how the Decoder responds to changes in the 4-bit BCD input.
 
 (![BCD Waves](https://github.com/user-attachments/assets/6d42a2ce-a063-4323-af2e-d5678d2a19c5)# BCD to 7-Segment Decoder)
 
