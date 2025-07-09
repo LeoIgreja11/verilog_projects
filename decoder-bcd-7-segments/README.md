@@ -19,8 +19,22 @@ It represents how each segment of the display is driven based on the 4-bit BCD i
 
 ![BCD Schematic](https://github.com/LeoIgreja11/verilog_projects/blob/main/decoder-bcd-7-segments/digital-decoder-bcd-7segments/bcd_4bits.png)
 
+
+## 🌊 Wave Forms
+
+This project monitors the waveforms of both input and output signals of the BCD to 7-Segment Decoder, using serial pulse inputs. The waveform visualization is done through the GTKWave software, allowing detailed observation of how the Decoder responds to changes in the 4-bit BCD input.
+
 (![BCD Waves](https://github.com/user-attachments/assets/6d42a2ce-a063-4323-af2e-d5678d2a19c5)# BCD to 7-Segment Decoder)
+
 ## ▶️ How to Run
+
+1. **Compile the design and testbench**
+
+```bash
+iverilog -o sim/decoder.vcd rt1/decoder.v tb/decoder_tb.v
+gtkwave out/decoder.vcd
+
+```
 
 ### Requirements
 
@@ -29,14 +43,7 @@ It represents how each segment of the display is driven based on the 4-bit BCD i
 - [Digital](https://github.com/hneemann/Digital)
 - [OpenLane](https://github.com/The-OpenROAD-Project/OpenLane)
 
-### Simulation
 
-```bash
-cd sim/
-iverilog -o decoder_tb ../verilog/decoder.v decoder_tb.v
-vvp decoder_tb
-gtkwave waveform.vcd
-```
 
 ## 🙏 Acknowledgments
 
