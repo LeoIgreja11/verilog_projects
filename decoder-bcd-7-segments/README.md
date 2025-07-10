@@ -28,7 +28,7 @@ The image below shows monitors the waveforms of both input and output signals of
 
 ## 💻 Design Chip
 
-![BCD Design in IC](https://github.com/LeoIgreja11/verilog_projects/blob/main/decoder-bcd-7-segments/KLayout/image.jpg)
+![BCD Design in IC](https://github.com/LeoIgreja11/verilog_projects/blob/main/decoder-bcd-7-segments/KLayout/image.png)
 
 ### Requirements
 
