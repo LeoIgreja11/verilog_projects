@@ -26,15 +26,9 @@ The image below shows monitors the waveforms of both input and output signals of
 
 (![BCD Waves](https://github.com/user-attachments/assets/6d42a2ce-a063-4323-af2e-d5678d2a19c5)# BCD to 7-Segment Decoder)
 
-## ▶️ How to Run
+## 💻 Design Chip
 
-1. **Compile the design and testbench**
-
-```bash
-iverilog -o sim/decoder.vcd rt1/decoder.v tb/decoder_tb.v
-gtkwave out/decoder.vcd
-
-```
+![BCD Design in IC](https://github.com/LeoIgreja11/verilog_projects/blob/main/decoder-bcd-7-segments/KLayout/image.jpg)
 
 ### Requirements
 
