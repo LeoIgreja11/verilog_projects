@@ -1,0 +1,12 @@
+{
+  "DESIGN_NAME": "decoder",
+  "VERILOG_FILES": "dir::src/*.v",
+  "RSZ_DONT_TOUCH": ["*_DONOTTOUCH"],
+  "FP_SIZING": "absolute",
+  "DIE_AREA": "0 0 75 50",
+  "FP_CORE_UTIL": "75",
+  "FP_PDN_MULTILAYER": true,
+  "POWER_PINS": true,
+  "SYNTH_USE_PG_PINS_DEFINES": "USE_POWER_PINS"
+}
+
