@@ -17,7 +17,7 @@ The project is organized into the following components:
 The image below shows the logic gate-level schematic of the BCD to 7-Segment Decoder, designed using the [Digital](https://github.com/hneemann/Digital) software.  
 It represents how each segment of the display is driven based on the 4-bit BCD input.
 
-![BCD Schematic](https://github.com/LeoIgreja11/verilog_projects/blob/main/decoder-bcd-7-segments/digital-decoder-bcd-7segments/bcd_4bits.png)
+(![BCD Schematic](https://github.com/LeoIgreja11/verilog_projects/blob/main/decoder-bcd-7-segments/digital-decoder-bcd-7segments/bcd_4bits.png)
 
 
 ## 🌊 Wave Forms
